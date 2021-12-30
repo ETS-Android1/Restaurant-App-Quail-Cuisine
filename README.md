@@ -19,7 +19,7 @@ Requires adding a secret file with Google Map API:
 -Click Close.
 -The new API key is listed on the Credentials page under API keys.
 
-3. Add the API key to the file:
+3. Add the below text and Google Maps API key to secrets.xml:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
  <resources>
