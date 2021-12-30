@@ -20,11 +20,13 @@ Requires adding a secret file with Google Map API:
 -The new API key is listed on the Credentials page under API keys.
 
 3. Add the API key to the file:
+```xml
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="google_maps_api_key">your_API_key</string>
+ <resources>
+     <string name="google_maps_api_key">your_API_key</string>
 
-</resources>
+ </resources>
+ ```
 
 CONTACT
 Ewelina Przepiorka przepiorka.ewelina@gmail.com
