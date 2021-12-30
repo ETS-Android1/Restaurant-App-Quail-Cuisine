@@ -12,7 +12,7 @@ Requires adding a secret file with Google Map API:
 /app/src/main/res/values/secrets.xml
 
 2. Get your API key:
--Go to the Google Maps Platform (https://mapsplatform.google.com/)--> Credentials page.
+-Go to the Google Maps Platform https://mapsplatform.google.com/ --> Credentials page.
 -Go to the Credentials page
 -On the Credentials page, click Create credentials > API key.
 -The API key created dialog displays your newly created API key.
