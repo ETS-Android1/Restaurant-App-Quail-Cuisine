@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -40,9 +39,9 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
+                    android:contentDescription="@string/starters"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/starters"
-                    tools:ignore="ImageContrastCheck" />
+                    android:src="@drawable/starters" />
 
                 <TextView
                     android:id="@+id/text_view_starters"
@@ -50,7 +49,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:padding="5sp"
-                    android:text="Starters"
+                    android:text="@string/starters"
                     android:textSize="18sp" />
 
             </LinearLayout>
@@ -74,6 +73,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
+                    android:contentDescription="@string/main_courses"
                     android:scaleType="centerCrop"
                     android:src="@drawable/main_courses" />
 
@@ -83,7 +83,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:padding="5sp"
-                    android:text="Main Courses"
+                    android:text="@string/main_courses"
                     android:textSize="18sp" />
 
             </LinearLayout>
@@ -109,6 +109,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
+                    android:contentDescription="@string/desserts"
                     android:scaleType="centerCrop"
                     android:src="@drawable/dessert" />
 
@@ -118,7 +119,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:padding="5sp"
-                    android:text="Desserts"
+                    android:text="@string/desserts"
                     android:textSize="18sp" />
 
             </LinearLayout>

@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * Adding options menu
+     *
      * @param menu
      * @return
      */
@@ -74,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * Adding options to the options menu
+     *
      * @param item
      * @return
      */

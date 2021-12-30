@@ -28,6 +28,7 @@ public class StartersActivity extends AppCompatActivity {
 
 
     }
+
     /**
      * Setting adapter
      */
