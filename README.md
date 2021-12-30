@@ -30,4 +30,4 @@ Requires adding a secret file with Google Map API:
 
 CONTACT <br />
 Ewelina Przepiorka przepiorka.ewelina@gmail.com <br />
-Project Link: https://github.com/ElinkAP/Restaurant-App-Quail-Cuisine-
+Project Link: https://github.com/ElinkAP/Restaurant-App-Quail-Cuisine
