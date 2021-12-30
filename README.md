@@ -1,9 +1,9 @@
 # Restaurant-App-Quail-Cuisine
 
-INTRODUCTION
+INTRODUCTION <br />
 This is an example JAVA application for Android that can be used by any restaurant after a few amendments.
 
-INSTALLATION
+INSTALLATION <br />
 Download ZIP or clone the repository to your local repository.
 
 Requires adding a secret file with Google Map API:
@@ -28,6 +28,6 @@ Requires adding a secret file with Google Map API:
  </resources>
  ```
 
-CONTACT
-Ewelina Przepiorka przepiorka.ewelina@gmail.com
+CONTACT <br />
+Ewelina Przepiorka przepiorka.ewelina@gmail.com <br />
 Project Link: https://github.com/ElinkAP/Restaurant-App-Quail-Cuisine-
