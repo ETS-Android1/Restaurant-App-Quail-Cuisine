@@ -85,7 +85,7 @@ public class InfoFragment extends Fragment implements OnMapReadyCallback {
     /**
      *
      * Implementing a method required by OnMapReadyCallback
-     * @param googleMap
+     * @param googleMap googleMap
      */
     @Override
     public void onMapReady(@NonNull GoogleMap googleMap) {

@@ -37,7 +37,9 @@ public class MenuFragment extends Fragment {
         return view;
     }
 
-
+    /**
+     * Adding cards listeners
+     */
     private void cardsListeners() {
         startersCard.setOnClickListener(v -> {
 
@@ -88,6 +90,10 @@ public class MenuFragment extends Fragment {
         });
     }
 
+    /**
+     * Initial meals list
+     * @param meals
+     */
     private void addMeals(ArrayList<com.ewelionp.myrestaurantappquailcuisine.Meal> meals) {
 
         meals.add(new com.ewelionp.myrestaurantappquailcuisine.Meal("starter", "Black pepper and mustard seed soup", "Crushed black pepper and yellow mustard seeds combined into chunky soup", 17));

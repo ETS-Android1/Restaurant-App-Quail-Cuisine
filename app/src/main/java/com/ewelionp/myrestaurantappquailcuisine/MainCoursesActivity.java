@@ -28,7 +28,9 @@ public class MainCoursesActivity extends AppCompatActivity {
 
 
     }
-
+    /**
+     * Setting adapter
+     */
     private void setAdapter() {
         com.ewelionp.myrestaurantappquailcuisine.MyRecyclerAdapter adapter = new com.ewelionp.myrestaurantappquailcuisine.MyRecyclerAdapter(sMeals);
         RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(this);
