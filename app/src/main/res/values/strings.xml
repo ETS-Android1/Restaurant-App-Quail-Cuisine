@@ -18,4 +18,7 @@
     <string name="official_email_address">info@quailcuisine.co.uk</string>
     <string name="restaurant_description">We are a London Restaurant with imaginative seasonal food, inspired by the flavours of Korea and France. We pay homage to both cuisines while challenging perceptions of what Korean and French-inspired dishes look (and taste) like.</string>
     <string name="quail_cuisine_logo">Quail Cuisine Logo</string>
+    <string name="starters">Starters</string>
+    <string name="main_courses">Main Courses</string>
+    <string name="desserts">Desserts</string>
 </resources>

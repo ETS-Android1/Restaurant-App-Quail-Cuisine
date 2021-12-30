@@ -92,7 +92,7 @@ public class MenuFragment extends Fragment {
 
     /**
      * Initial meals list
-     * @param meals
+     * @param meals meals
      */
     private void addMeals(ArrayList<com.ewelionp.myrestaurantappquailcuisine.Meal> meals) {
 

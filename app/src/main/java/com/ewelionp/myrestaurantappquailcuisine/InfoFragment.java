@@ -50,7 +50,6 @@ public class InfoFragment extends Fragment implements OnMapReadyCallback {
 
 
     /**
-     *
      * Setting OnClickListeners for bottom_nav_menu
      */
     private void setListeners() {
@@ -83,8 +82,8 @@ public class InfoFragment extends Fragment implements OnMapReadyCallback {
     }
 
     /**
-     *
      * Implementing a method required by OnMapReadyCallback
+     *
      * @param googleMap googleMap
      */
     @Override
