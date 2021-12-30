@@ -9,6 +9,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyRestaurantAppQuailCuisine">
+
+        <activity
+            android:name=".DessertsActivity"
+            android:exported="true"
+            android:label="Menu / Desserts"
+            android:theme="@style/Theme.CategoryMenu"/>
+        <activity
+            android:name=".MainCoursesActivity"
+            android:exported="true"
+            android:label="Menu / Main Courses"
+            android:theme="@style/Theme.CategoryMenu"/>
+        <activity
+            android:name=".StartersActivity"
+            android:exported="true"
+            android:label="Menu / Starters"
+            android:theme="@style/Theme.CategoryMenu"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
