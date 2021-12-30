@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">My Restaurant App (Quail Cuisine)</string>
+    <string name="app_name">Quail Cuisine</string>
+    <string name="starters_headline"><u>Starters</u></string>
+    <string name="main_courses_headline"><u>Main Courses</u></string>
+    <string name="desserts_headline"><u>Desserts</u></string>
+    <string name="menu_info">The below menu is available Monday - Saturday\n
+        and Sunday Lunch 12.00-16.00 only.\n\n
+        Our Bar now remains open for drinks and sharing boards between 16.00-21.00</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="opening_times"><b>OPENING TIMES</b>\n\nMonday-Friday\n\n13.00-23.00\n\nSaturday-Sunday\n\n12.00-23.30</string>
+    <string name="address">Ariel Way\n Shepherds Bush \nLondon W12 7GF</string>
+    <string name="quail_cuisine">Quail Cuisine</string>
+    <string name="phone_number">tel:022244408965</string>
+    <string name="email_address">przepiorka.ewelina@gmail.com</string>
+    <string name="email_subject_main_enquiry">Enquiry</string>
+    <string name="email_subject_booking_enquiry">Booking enquiry</string>
+    <string name="website_address">www.quailcuisine.com</string>
+    <string name="official_email_address">info@quailcuisine.co.uk</string>
+    <string name="restaurant_description">We are a London Restaurant with imaginative seasonal food, inspired by the flavours of Korea and France. We pay homage to both cuisines while challenging perceptions of what Korean and French-inspired dishes look (and taste) like.</string>
+    <string name="quail_cuisine_logo">Quail Cuisine Logo</string>
 </resources>
