@@ -29,7 +29,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
+    /**
+     * Set up navBar listeners
+     */
     private void navBarListener() {
         mBottomNavView.setOnItemSelectedListener(item -> {
             switch (item.getItemId()) {
@@ -59,13 +61,22 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-
+    /**
+     * Adding options menu
+     * @param menu
+     * @return
+     */
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.toolbar, menu);
         return true;
     }
 
+    /**
+     * Adding options to the options menu
+     * @param item
+     * @return
+     */
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()) {

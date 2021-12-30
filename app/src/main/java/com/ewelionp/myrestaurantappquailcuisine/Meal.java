@@ -9,6 +9,13 @@ public class Meal implements Serializable {
     private String description;
     private float price;
 
+    /**
+     * Constructor
+     * @param category
+     * @param name
+     * @param description
+     * @param price
+     */
     public Meal(String category, String name, String description, float price) {
         this.category = category;
         this.name = name;
@@ -16,6 +23,9 @@ public class Meal implements Serializable {
         this.price = price;
     }
 
+    /**
+     * Getters and setters
+     */
     public String getName() {
         return name;
     }

@@ -29,6 +29,9 @@ public class DessertsActivity extends AppCompatActivity {
 
     }
 
+    /**
+     * Setting adapter
+     */
     private void setAdapter() {
         MyRecyclerAdapter adapter = new MyRecyclerAdapter(sMeals);
         RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(this);
